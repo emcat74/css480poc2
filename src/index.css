@@ -20,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: #333;
+  background-color: black;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -49,6 +49,17 @@ nav a {
 }
 
 nav li:hover {
-  background-color: #777;
+  background-color: gray;
 }
 
+h1 {
+  color: #0C7BDC
+}
+
+h2 {
+  color: #F17B0C
+}
+
+nav h1 {
+  color: white
+}
